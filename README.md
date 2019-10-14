@@ -69,7 +69,7 @@
 
     $ git add README.md
     
-    
+![7](https://user-images.githubusercontent.com/44828491/66745519-62718000-eea9-11e9-8ad2-e152a94c3df7.png) 
 
 • File README.md berhasil ditambahkan.
 
@@ -131,6 +131,8 @@
 
 • Maka perubahan akan terlihat pada laman tersebut.
 
+![14](https://user-images.githubusercontent.com/44828491/66745497-4f5eb000-eea9-11e9-95f2-120bb1802a0e.png)
+
  Clone Repository
  
 • Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai
@@ -138,4 +140,4 @@
   
 • Untuk melakukan cloning, gunakan perintah git clone [url]
 
-
+![13](https://user-images.githubusercontent.com/44828491/66745305-ccd5f080-eea8-11e9-879c-cde3dc1997c5.png)
